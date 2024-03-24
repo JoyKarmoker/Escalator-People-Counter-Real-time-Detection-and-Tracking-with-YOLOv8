@@ -66,7 +66,7 @@ Here is the output video demonstrating the people counting on the escalator:
 
 ## Author
 
-- [Joy Karmoker](https://github.com/your_username)
+- [Joy Karmoker](https://github.com/JoyKarmoker)
 
 ## License
 
