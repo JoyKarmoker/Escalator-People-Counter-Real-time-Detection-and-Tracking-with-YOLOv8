@@ -41,10 +41,11 @@ This project utilizes YOLOv8 for real-time object detection and SORT (Simple Onl
 
 Here is the output video demonstrating the people counting on the escalator:
 
-<video width="640" height="480" controls>
-  <source src="output_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/JoyKarmoker/Escalator-People-Counter-Real-time-Detection-and-Tracking-with-YOLOv8/assets/48152122/63932e57-03d0-4436-bf01-a9bbdafd2ee9
+
+
 
 ## Algorithm
 
