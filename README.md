@@ -1,6 +1,7 @@
 # YOLOv8 Escalator People Counting System
 
 This project utilizes YOLOv8 for real-time object detection and SORT (Simple Online and Realtime Tracking) algorithm for tracking individuals on an escalator. The system accurately counts the number of people moving up and down the escalator separately.
+
 ![People Counting Demo](demo.gif)
 
 
